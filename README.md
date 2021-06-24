@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me Phone email: vishaliitp64@gmail.com , linkedIn: linkedin.com/in/vishal-yadav-71a514208
+- 📫 How to reach me @ email: vishaliitp64@gmail.com , linkedIn: linkedin.com/in/vishal-yadav-71a514208   
 
 
 <!---
