@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishal Yadav (@VishalIITP)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me @ email:[gmail](vishaliitp64@gmail.com) , [linkedIn](https://www.linkedin.com/in/vishal-yadav-71a514208)
 
